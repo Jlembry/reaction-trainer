@@ -1,3 +1,5 @@
+This is completely vibe-coded. I havent even personally looked at the code. I just needed this and didn't want to do any actual work for it.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
